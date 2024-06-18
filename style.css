@@ -1,0 +1,56 @@
+/** @format */
+
+body {
+  /* width: 100%; */
+  max-height: 100vh;
+  background-color: #0c192c;
+}
+.nft {
+  width: 100%;
+  max-width: 320px;
+  height: 554px;
+  position: fixed;
+  margin: auto;
+  inset: 0;
+  background-color: #15273f;
+  box-shadow: -1px 6px 9px 7px rgba(0, 0, 0, 0.3);
+  border-radius: 20px;
+  padding: 10px;
+}
+.Equilibrium {
+  width: 100%;
+  border-radius: 12px;
+}
+h3 {
+  color: white;
+}
+p {
+  font-size: 18px;
+  color: #506685;
+}
+.logo-1 {
+  color: aqua;
+}
+.clock {
+  margin-left: 139px;
+}
+.logo-2 {
+  color: #506685;
+}
+hr {
+  margin-top: 20px;
+  opacity: 0.2;
+}
+img {
+  margin-top: 12px;
+  width: 35px;
+}
+.text {
+  padding: 4px;
+}
+.one {
+  color: #506685;
+}
+.two {
+  color: white;
+}
